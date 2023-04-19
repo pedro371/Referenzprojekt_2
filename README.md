@@ -1,6 +1,7 @@
 # Demoprojekt
 
 Projektziel: State of the Art Flutter App mit Fokus auf simples Design und eine Entwicklung ohne externe Dependencies.
+
 Aufgewendete Zeit: 4,5 Stunden
 
 Da es ein einfaches Demo-Projekt ist, konsumiert die App keine externen APIs.
