@@ -1,12 +1,9 @@
-# Projektreferenz #2
+# Demoprojekt
 
-Ein kleines Projekt, das ich aus spaß schnell programmiert habe.
+Projektziel: State of the Art Flutter App mit Fokus auf simples Design und eine Entwicklung ohne externe Dependencies.
+Aufgewendete Zeit: 4,5 Stunden
 
-Ziel war es, schnell eine übersichtliche App zu erstellen, die aus einem Ratgeber und einem Informationsportal für Krankheiten bei Reisen besteht.
-
-Da es ein einfaches Demo-Projekt ist, konsumiert die App keine externen APIs etc.
-Ziel war es ebenfalls, keine externe dependencies als die, die vorkonfiguriert sind, zu verwenden.
-Ich habe auf eine saubere Projektstruktur gebaut und auf Auskapseln wiederverwendete Parameter geachtet.
+Da es ein einfaches Demo-Projekt ist, konsumiert die App keine externen APIs.
 
 ### Mein Ratgeber:
 <img src="https://orgaplan-beratung.de/wp-content/uploads/2023/03/01.png" alt="Alt text" title="Mein Ratgeber" style="height: 1000px">
